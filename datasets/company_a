@@ -1,1 +1,4 @@
-
+order_id,customer_id,product_id,quantity,sale_date
+A001,1001,P100,1,2025-01-05
+A002,1002,P101,2,2025-01-08
+A003,1003,P102,3,2025-01-09
